@@ -1,0 +1,15 @@
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\bin\Debug\net7.0\FoundationalChallenge.exe
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\bin\Debug\net7.0\FoundationalChallenge.deps.json
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\bin\Debug\net7.0\FoundationalChallenge.runtimeconfig.json
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\bin\Debug\net7.0\FoundationalChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\bin\Debug\net7.0\FoundationalChallenge.pdb
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\obj\Debug\net7.0\FoundationalChallenge.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\obj\Debug\net7.0\FoundationalChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\obj\Debug\net7.0\FoundationalChallenge.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\obj\Debug\net7.0\FoundationalChallenge.AssemblyInfo.cs
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\obj\Debug\net7.0\FoundationalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\obj\Debug\net7.0\FoundationalChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\obj\Debug\net7.0\refint\FoundationalChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\obj\Debug\net7.0\FoundationalChallenge.pdb
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\obj\Debug\net7.0\FoundationalChallenge.genruntimeconfig.cache
+C:\Users\natha\workspace\FoundationalCsharp\FoundationalChallenge\obj\Debug\net7.0\ref\FoundationalChallenge.dll
