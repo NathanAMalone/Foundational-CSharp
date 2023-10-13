@@ -1,0 +1,15 @@
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\bin\Debug\net7.0\testProject1.exe
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\bin\Debug\net7.0\testProject1.deps.json
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\bin\Debug\net7.0\testProject1.runtimeconfig.json
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\bin\Debug\net7.0\testProject1.dll
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\bin\Debug\net7.0\testProject1.pdb
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\obj\Debug\net7.0\testProject1.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\obj\Debug\net7.0\testProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\obj\Debug\net7.0\testProject1.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\obj\Debug\net7.0\testProject1.AssemblyInfo.cs
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\obj\Debug\net7.0\testProject1.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\obj\Debug\net7.0\testProject1.dll
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\obj\Debug\net7.0\refint\testProject1.dll
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\obj\Debug\net7.0\testProject1.pdb
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\obj\Debug\net7.0\testProject1.genruntimeconfig.cache
+C:\Users\natha\workspace\FoundationalCsharp\testProject1\obj\Debug\net7.0\ref\testProject1.dll

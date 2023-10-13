@@ -1,0 +1,15 @@
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\bin\Debug\net7.0\OverloadedMethods.exe
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\bin\Debug\net7.0\OverloadedMethods.deps.json
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\bin\Debug\net7.0\OverloadedMethods.runtimeconfig.json
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\bin\Debug\net7.0\OverloadedMethods.dll
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\bin\Debug\net7.0\OverloadedMethods.pdb
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\obj\Debug\net7.0\OverloadedMethods.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\obj\Debug\net7.0\OverloadedMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\obj\Debug\net7.0\OverloadedMethods.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\obj\Debug\net7.0\OverloadedMethods.AssemblyInfo.cs
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\obj\Debug\net7.0\OverloadedMethods.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\obj\Debug\net7.0\OverloadedMethods.dll
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\obj\Debug\net7.0\refint\OverloadedMethods.dll
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\obj\Debug\net7.0\OverloadedMethods.pdb
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\obj\Debug\net7.0\OverloadedMethods.genruntimeconfig.cache
+C:\Users\natha\workspace\FoundationalCsharp\OverloadedMethods\obj\Debug\net7.0\ref\OverloadedMethods.dll
