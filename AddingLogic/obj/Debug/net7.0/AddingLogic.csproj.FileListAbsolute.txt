@@ -1,0 +1,15 @@
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\bin\Debug\net7.0\AddingLogic.exe
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\bin\Debug\net7.0\AddingLogic.deps.json
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\bin\Debug\net7.0\AddingLogic.runtimeconfig.json
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\bin\Debug\net7.0\AddingLogic.dll
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\bin\Debug\net7.0\AddingLogic.pdb
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\obj\Debug\net7.0\AddingLogic.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\obj\Debug\net7.0\AddingLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\obj\Debug\net7.0\AddingLogic.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\obj\Debug\net7.0\AddingLogic.AssemblyInfo.cs
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\obj\Debug\net7.0\AddingLogic.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\obj\Debug\net7.0\AddingLogic.dll
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\obj\Debug\net7.0\refint\AddingLogic.dll
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\obj\Debug\net7.0\AddingLogic.pdb
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\obj\Debug\net7.0\AddingLogic.genruntimeconfig.cache
+C:\Users\natha\workspace\FoundationalCsharp\AddingLogic\obj\Debug\net7.0\ref\AddingLogic.dll
