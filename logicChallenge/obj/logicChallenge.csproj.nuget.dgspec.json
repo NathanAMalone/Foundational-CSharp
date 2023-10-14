@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\natha\\workspace\\FoundationalCsharp\\AddingLogic\\AddingLogic.csproj": {}
+    "C:\\Users\\natha\\workspace\\FoundationalCsharp\\logicChallenge\\logicChallenge.csproj": {}
   },
   "projects": {
-    "c:\\Users\\natha\\workspace\\FoundationalCsharp\\AddingLogic\\AddingLogic.csproj": {
+    "C:\\Users\\natha\\workspace\\FoundationalCsharp\\logicChallenge\\logicChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\natha\\workspace\\FoundationalCsharp\\AddingLogic\\AddingLogic.csproj",
-        "projectName": "AddingLogic",
-        "projectPath": "c:\\Users\\natha\\workspace\\FoundationalCsharp\\AddingLogic\\AddingLogic.csproj",
+        "projectUniqueName": "C:\\Users\\natha\\workspace\\FoundationalCsharp\\logicChallenge\\logicChallenge.csproj",
+        "projectName": "logicChallenge",
+        "projectPath": "C:\\Users\\natha\\workspace\\FoundationalCsharp\\logicChallenge\\logicChallenge.csproj",
         "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\natha\\workspace\\FoundationalCsharp\\AddingLogic\\obj\\",
+        "outputPath": "C:\\Users\\natha\\workspace\\FoundationalCsharp\\logicChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

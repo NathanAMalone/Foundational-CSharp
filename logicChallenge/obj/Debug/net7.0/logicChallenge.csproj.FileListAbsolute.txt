@@ -1,0 +1,15 @@
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\bin\Debug\net7.0\logicChallenge.exe
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\bin\Debug\net7.0\logicChallenge.deps.json
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\bin\Debug\net7.0\logicChallenge.runtimeconfig.json
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\bin\Debug\net7.0\logicChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\bin\Debug\net7.0\logicChallenge.pdb
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\obj\Debug\net7.0\logicChallenge.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\obj\Debug\net7.0\logicChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\obj\Debug\net7.0\logicChallenge.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\obj\Debug\net7.0\logicChallenge.AssemblyInfo.cs
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\obj\Debug\net7.0\logicChallenge.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\obj\Debug\net7.0\logicChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\obj\Debug\net7.0\refint\logicChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\obj\Debug\net7.0\logicChallenge.pdb
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\obj\Debug\net7.0\logicChallenge.genruntimeconfig.cache
+C:\Users\natha\workspace\FoundationalCsharp\logicChallenge\obj\Debug\net7.0\ref\logicChallenge.dll
