@@ -1,0 +1,15 @@
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\bin\Debug\net7.0\ArrayChallenge.exe
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\bin\Debug\net7.0\ArrayChallenge.deps.json
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\bin\Debug\net7.0\ArrayChallenge.runtimeconfig.json
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\bin\Debug\net7.0\ArrayChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\bin\Debug\net7.0\ArrayChallenge.pdb
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\obj\Debug\net7.0\ArrayChallenge.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\obj\Debug\net7.0\ArrayChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\obj\Debug\net7.0\ArrayChallenge.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\obj\Debug\net7.0\ArrayChallenge.AssemblyInfo.cs
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\obj\Debug\net7.0\ArrayChallenge.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\obj\Debug\net7.0\ArrayChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\obj\Debug\net7.0\refint\ArrayChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\obj\Debug\net7.0\ArrayChallenge.pdb
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\obj\Debug\net7.0\ArrayChallenge.genruntimeconfig.cache
+C:\Users\natha\workspace\FoundationalCsharp\ArrayChallenge\obj\Debug\net7.0\ref\ArrayChallenge.dll
