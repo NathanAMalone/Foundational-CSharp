@@ -1,0 +1,15 @@
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\bin\Debug\net7.0\ArrayLoops.exe
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\bin\Debug\net7.0\ArrayLoops.deps.json
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\bin\Debug\net7.0\ArrayLoops.runtimeconfig.json
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\bin\Debug\net7.0\ArrayLoops.dll
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\bin\Debug\net7.0\ArrayLoops.pdb
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\obj\Debug\net7.0\ArrayLoops.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\obj\Debug\net7.0\ArrayLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\obj\Debug\net7.0\ArrayLoops.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\obj\Debug\net7.0\ArrayLoops.AssemblyInfo.cs
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\obj\Debug\net7.0\ArrayLoops.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\obj\Debug\net7.0\ArrayLoops.dll
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\obj\Debug\net7.0\refint\ArrayLoops.dll
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\obj\Debug\net7.0\ArrayLoops.pdb
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\obj\Debug\net7.0\ArrayLoops.genruntimeconfig.cache
+C:\Users\natha\workspace\FoundationalCsharp\ArrayLoops\obj\Debug\net7.0\ref\ArrayLoops.dll
