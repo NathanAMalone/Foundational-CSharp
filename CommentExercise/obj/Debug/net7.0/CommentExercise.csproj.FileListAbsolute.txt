@@ -1,0 +1,15 @@
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\bin\Debug\net7.0\CommentExercise.exe
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\bin\Debug\net7.0\CommentExercise.deps.json
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\bin\Debug\net7.0\CommentExercise.runtimeconfig.json
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\bin\Debug\net7.0\CommentExercise.dll
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\bin\Debug\net7.0\CommentExercise.pdb
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\obj\Debug\net7.0\CommentExercise.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\obj\Debug\net7.0\CommentExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\obj\Debug\net7.0\CommentExercise.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\obj\Debug\net7.0\CommentExercise.AssemblyInfo.cs
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\obj\Debug\net7.0\CommentExercise.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\obj\Debug\net7.0\CommentExercise.dll
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\obj\Debug\net7.0\refint\CommentExercise.dll
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\obj\Debug\net7.0\CommentExercise.pdb
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\obj\Debug\net7.0\CommentExercise.genruntimeconfig.cache
+C:\Users\natha\workspace\FoundationalCsharp\CommentExercise\obj\Debug\net7.0\ref\CommentExercise.dll
