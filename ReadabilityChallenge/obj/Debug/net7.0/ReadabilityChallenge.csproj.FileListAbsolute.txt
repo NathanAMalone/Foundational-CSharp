@@ -1,0 +1,15 @@
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\bin\Debug\net7.0\ReadabilityChallenge.exe
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\bin\Debug\net7.0\ReadabilityChallenge.deps.json
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\bin\Debug\net7.0\ReadabilityChallenge.runtimeconfig.json
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\bin\Debug\net7.0\ReadabilityChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\bin\Debug\net7.0\ReadabilityChallenge.pdb
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\obj\Debug\net7.0\ReadabilityChallenge.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\obj\Debug\net7.0\ReadabilityChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\obj\Debug\net7.0\ReadabilityChallenge.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\obj\Debug\net7.0\ReadabilityChallenge.AssemblyInfo.cs
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\obj\Debug\net7.0\ReadabilityChallenge.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\obj\Debug\net7.0\ReadabilityChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\obj\Debug\net7.0\refint\ReadabilityChallenge.dll
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\obj\Debug\net7.0\ReadabilityChallenge.pdb
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\obj\Debug\net7.0\ReadabilityChallenge.genruntimeconfig.cache
+C:\Users\natha\workspace\FoundationalCsharp\ReadabilityChallenge\obj\Debug\net7.0\ref\ReadabilityChallenge.dll
