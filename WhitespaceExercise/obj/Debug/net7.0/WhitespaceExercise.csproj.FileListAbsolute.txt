@@ -1,0 +1,15 @@
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\bin\Debug\net7.0\WhitespaceExercise.exe
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\bin\Debug\net7.0\WhitespaceExercise.deps.json
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\bin\Debug\net7.0\WhitespaceExercise.runtimeconfig.json
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\bin\Debug\net7.0\WhitespaceExercise.dll
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\bin\Debug\net7.0\WhitespaceExercise.pdb
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\obj\Debug\net7.0\WhitespaceExercise.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\obj\Debug\net7.0\WhitespaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\obj\Debug\net7.0\WhitespaceExercise.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\obj\Debug\net7.0\WhitespaceExercise.AssemblyInfo.cs
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\obj\Debug\net7.0\WhitespaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\obj\Debug\net7.0\WhitespaceExercise.dll
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\obj\Debug\net7.0\refint\WhitespaceExercise.dll
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\obj\Debug\net7.0\WhitespaceExercise.pdb
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\obj\Debug\net7.0\WhitespaceExercise.genruntimeconfig.cache
+C:\Users\natha\workspace\FoundationalCsharp\WhitespaceExercise\obj\Debug\net7.0\ref\WhitespaceExercise.dll
